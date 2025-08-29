@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: sleepy-plus
+    name: Aruma-plus2
     env: python
     region: Oregon
     plan: free
