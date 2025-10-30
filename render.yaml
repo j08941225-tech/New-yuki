@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: Aruma-plus2
+    name: gundam-dayo
     env: python
     region: Oregon
     plan: free
