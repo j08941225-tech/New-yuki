@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: gundam-dayo
+    name: BAEL
     env: python
     region: Oregon
     plan: free
