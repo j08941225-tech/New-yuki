@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: BAEL
+    name: デスティニー
     env: python
     region: Oregon
     plan: free
